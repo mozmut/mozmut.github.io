@@ -13,7 +13,7 @@ SUGGESTION:
 - Clickable version
 
 
-[See demo](http://mozmut.github.io/)
+[See demo](http://mozmut.github.io/TurkeyMap)
 
 Note: Modalbox content does not work with file system, you need localhost or server.
 
